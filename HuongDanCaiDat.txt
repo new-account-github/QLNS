@@ -1,0 +1,13 @@
+Thực hiện theo các bước sau đây để cài đặt
+1. Cài JDK 1.8+ (nếu chưa cài)
+2. Cài SQL Server 2008+ (nếu chưa cài)
+3. Chạy ManSys để tạo CSDL QLNS
+4. Chạy ManSys.exe để sử ứng dụng ManSys.exe
+5. Chạy và đăng nhập với tài khoản
+5.1 Trường phòng:
++ username: TamNTT
++ password: 789
+5.2 Nhân viên bình thường
++ username: TeoNV	
++ password: 123
+
